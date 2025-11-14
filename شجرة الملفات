@@ -1,0 +1,14 @@
+شجرة الملفات
+.github/workflows/build-android.yml
+pubspec.yaml
+analysis_options.yaml
+assets/spells.json
+assets/icon.png            (اختياري الآن)
+lib/main.dart
+lib/models/spell.dart
+lib/services/spell_repository.dart
+lib/pages/spells_page.dart
+lib/pages/spell_details.dart
+lib/pages/lab_page.dart
+lib/pages/ai_page.dart
+lib/pages/about_page.dart
